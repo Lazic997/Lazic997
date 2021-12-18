@@ -1,19 +1,13 @@
 ![](https://github.com/Lazic997/Lazic997/blob/main/Lazic997.png)
- 
+<img src="https://github.com/Lazic997/Lazic997/blob/main/pc.png" align="right"> 
 #Hi there 👋
+I am currently doing studies on FERIT in the city of Osijek in Croatia.
+There is still so much for me to learn and I want you to know that the IT branch is
+a completely "new thing" to me. For now, I don't have major projects that I can share with
+you except my final assignment "Bank Management System" and some Java assignment from this semester.
+I hope you enjoy it!
+ 
 
-<div class="container" style="display: flex, align-items: center, justify-content: center;">
-      <div class="image">
-        <img src="https://github.com/Lazic997/Lazic997/blob/main/pc.png" width="500" height="400">
-      </div>
-      <div class="text" font-size="20px" padding-left="20px">
-        I am currently doing studies on FERIT in the city of Osijek in Croatia.
-        There is still so much for me to learn and I want you to know that the IT branch is
-        a completely "new thing" to me. For now, I don't have major projects that I can share with
-        you except my final assignment "Bank Management System" and some Java assignment from this semester.
-        I hope you enjoy it!
-      </div>
-    </div>
     
     
 
