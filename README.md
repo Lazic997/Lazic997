@@ -1,7 +1,7 @@
 ![](https://github.com/Lazic997/Lazic997/blob/main/Lazic997.png)
 # Hi there 👋
 
-<img src="https://github.com/Lazic997/Lazic997/blob/main/pc.png" align="right" width="500" height="400"> 
+<img src="https://github.com/Lazic997/Lazic997/blob/main/pc.png" align="right" width="400" height="300"> 
 
 I am currently doing studies on FERIT in the city of Osijek in Croatia.
 There is still so much for me to learn and I want you to know that the IT branch is
