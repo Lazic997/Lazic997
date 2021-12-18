@@ -15,10 +15,8 @@ Skills: Java/C
 - 🌱 I’m currently learning Java programming language 
 - 📫 How to reach me: lazicc9@gmail.com 
     
-    
-
-
-
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazic997)](https://github.com/anuraghazra/github-readme-stats)
 
