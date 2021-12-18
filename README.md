@@ -8,7 +8,10 @@ There is still so much for me to learn and I want you to know that the IT branch
 a completely "new thing" to me. For now, I don't have major projects that I can share with
 you except my final assignment "Bank Management System" and some Java assignment from this semester.
 I hope you enjoy it!
- 
+
+<br>
+<br>
+
 Skills: Java/C
 
 - 🔭 I’m currently working on improving developing skills 
