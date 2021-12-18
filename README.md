@@ -1,7 +1,8 @@
 ![](https://github.com/Lazic997/Lazic997/blob/main/Lazic997.png)
 <br>
+<br>
 # Hi there 👋
-
+<br>
 
 <p style="padding-right: 50%;">
 I am currently doing studies on FERIT in the city of Osijek in Croatia.
