@@ -23,6 +23,6 @@ Skills: Java/C
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazic997&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazic997&show_icons=true&theme=radical)
   
 
