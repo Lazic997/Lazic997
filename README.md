@@ -1,7 +1,6 @@
-# Hi there 👋, my name is Srdjan
-
 ![](https://github.com/Lazic997/Lazic997/blob/main/Lazic997.png)
 
+## Hi there 👋, my name is Srdjan
 I am Student on FERIT Osijek
 Unfortunately, I don't have much to say about my skills, still learning a lot about being a developer :D
 
