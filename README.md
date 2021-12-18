@@ -1,6 +1,17 @@
 ![](https://github.com/Lazic997/Lazic997/blob/main/Lazic997.png)
  
 #Hi there 👋
+
+<div class="container" style="display: flex, align-items: center, justify-content: center;">
+      <div class="image">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg">
+      </div>
+      <div class="text">
+        <h1>Paris is one of the most beautiful cities in France.</h1>
+      </div>
+    </div>
+    
+    
 I am currently doing studies on FERIT in the city of Osijek in Croatia.
 There is still so much for me to learn and I want you to know that the IT branch is
 a completely "new thing" to me. For now, I don't have major projects that I can share with
