@@ -1,5 +1,6 @@
 ![](https://github.com/Lazic997/Lazic997/blob/main/Lazic997.png)
 #Hi there 👋
+
 <img src="https://github.com/Lazic997/Lazic997/blob/main/pc.png" align="right" width="500" height="400"> 
 
 I am currently doing studies on FERIT in the city of Osijek in Croatia.
