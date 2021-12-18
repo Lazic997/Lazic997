@@ -12,8 +12,7 @@ you except my final assignment "Bank Management System" and some Java assignment
 I hope you enjoy it!
 <p/>
 <img src="https://github.com/Lazic997/Lazic997/blob/main/pc.png" align="right" width="400" height="300"> 
-<br>
-<br>
+
 
 Skills: Java/C
 
