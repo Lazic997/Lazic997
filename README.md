@@ -23,11 +23,10 @@ Skills: Java/C
 <br>
 <br>
 
-<div>
-    <div align="left">
+
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazic997)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-    <div align="right">
+    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazic997&show_icons=true)
-    </div>
-</div>
+  
+
