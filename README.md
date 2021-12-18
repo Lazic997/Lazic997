@@ -9,7 +9,11 @@ a completely "new thing" to me. For now, I don't have major projects that I can 
 you except my final assignment "Bank Management System" and some Java assignment from this semester.
 I hope you enjoy it!
  
+Skills: Java/C
 
+- 🔭 I’m currently working on improving developing skills 
+- 🌱 I’m currently learning Java programming language 
+- 📫 How to reach me: lazicc9@gmail.com 
     
     
 
