@@ -9,7 +9,7 @@ I am currently doing studies on FERIT in the city of Osijek in Croatia.
 There is still so much for me to learn and I want you to know that the IT branch is
 a completely "new thing" to me. For now, I don't have major projects that I can share with
 you except my final assignment "Bank Management System" and some Java assignment from this semester.<br><br>
-I hope you enjoy it! <br>
+I hope you enjoy it! <br><br>
 
 Skills: Java/C
 
