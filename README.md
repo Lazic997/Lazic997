@@ -14,7 +14,7 @@ I hope you enjoy it! <br><br>
 Skills: Java/C
 
 - 🔭 I’m currently working on improving developing skills 
-- 🌱 I’m currently learning Java programming language 
+- 🌱 I’m currently learning Java Spring Framework 
 - 📫 How to reach me: lazicc9@gmail.com 
     
 <br>
